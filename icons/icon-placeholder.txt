@@ -1,0 +1,20 @@
+To complete the PWA setup, you'll need to create icon PNG files in the following sizes:
+
+1. icon-72x72.png
+2. icon-96x96.png
+3. icon-128x128.png
+4. icon-144x144.png
+5. icon-152x152.png
+6. icon-192x192.png
+7. icon-384x384.png
+8. icon-512x512.png
+
+You can use the logo.svg file created in this project and convert it to these PNG formats using:
+
+1. Online SVG to PNG converters
+2. Image editing software like Photoshop, GIMP, or Inkscape
+3. If you have Inkscape installed, you can use the provided generate-icons.sh script
+
+Place all PNG files in this 'icons' directory.
+
+For the best experience, generate all icon sizes to ensure compatibility with various devices and platforms. 
